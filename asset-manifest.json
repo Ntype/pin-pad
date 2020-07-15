@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pin-pad/static/css/main.8e109c2b.chunk.css",
+    "main.js": "/pin-pad/static/js/main.d523dbca.chunk.js",
+    "main.js.map": "/pin-pad/static/js/main.d523dbca.chunk.js.map",
+    "runtime-main.js": "/pin-pad/static/js/runtime-main.6c9f1fcc.js",
+    "runtime-main.js.map": "/pin-pad/static/js/runtime-main.6c9f1fcc.js.map",
+    "static/css/2.764ccc25.chunk.css": "/pin-pad/static/css/2.764ccc25.chunk.css",
+    "static/js/2.aa791021.chunk.js": "/pin-pad/static/js/2.aa791021.chunk.js",
+    "static/js/2.aa791021.chunk.js.map": "/pin-pad/static/js/2.aa791021.chunk.js.map",
+    "index.html": "/pin-pad/index.html",
+    "precache-manifest.bbabf532cf21b4f2ef49a1bae63e2520.js": "/pin-pad/precache-manifest.bbabf532cf21b4f2ef49a1bae63e2520.js",
+    "service-worker.js": "/pin-pad/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/pin-pad/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.8e109c2b.chunk.css.map": "/pin-pad/static/css/main.8e109c2b.chunk.css.map",
+    "static/js/2.aa791021.chunk.js.LICENSE.txt": "/pin-pad/static/js/2.aa791021.chunk.js.LICENSE.txt",
+    "static/media/pin-pad.scss": "/pin-pad/static/media/bg.e45173f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c9f1fcc.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.aa791021.chunk.js",
+    "static/css/main.8e109c2b.chunk.css",
+    "static/js/main.d523dbca.chunk.js"
+  ]
+}
